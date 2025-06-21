@@ -1,2 +1,2 @@
-# dYeti_data_analysys
+# dYeti Data
 analiza danych do inżynierki
